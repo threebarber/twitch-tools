@@ -1,2 +1,2 @@
-# twitch
+# twitch tools
 twitch scripts
